@@ -1,4 +1,3 @@
-[
 {
 "Doctor Name"= "Purushoth",
 "Specialist"= "Corona",
@@ -9,6 +8,6 @@
 }
 {
 "Doctor Name= "Bala",
-"Specialist"="Dentist"
+"Specialist"= "Dentist"
 }
-]
+
